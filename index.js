@@ -1,1 +1,1 @@
-export { default as Counter } from './dist/Test';
+export { default as Counter } from './dist/Counter';
